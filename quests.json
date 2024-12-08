@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Clean the River",
+    "description": "Collect 5 pieces of trash from the river.",
+    "reward": "100 points",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Plant Trees",
+    "description": "Plant 3 trees in the designated area.",
+    "reward": "150 points",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Identify Invasive Species",
+    "description": "Find and identify 3 invasive species in the forest.",
+    "reward": "200 points",
+    "completed": false
+  }
+]
